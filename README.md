@@ -15,7 +15,7 @@ Fecha: 05/2024
 
 ## Introducción:
 
-En este repositorio se encuentran los dos problemas establecidos en el **Segundo Trabajo Práctico** de **Aprendizaje Automático II**. Cada problema tiene su propia carpeta:
+En este repositorio se encuentran los tres problemas establecidos en el **Primer Trabajo Práctico** de **Aprendizaje Automático II**. Cada problema tiene su propia carpeta:
 * Problema 1/
 * Problema 2/
 * Problema 3/
