@@ -1,6 +1,6 @@
 Fecha: 05/2024
 
-# Trabajo Práctico II - Aprendizaje Automático II - Tecnicatura Universitária en Inteligencia Artifical (UNR)
+# Trabajo Práctico I - Aprendizaje Automático II - Tecnicatura Universitária en Inteligencia Artifical (UNR)
 
 ## Integrantes: 
 
